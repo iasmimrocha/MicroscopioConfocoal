@@ -6,7 +6,7 @@ imagens de alta resolução de amostras biológicas ou materiais em escala micro
 A principal característica do microscópio confocal é sua capacidade de eliminar ou reduzir 
 significativamente a luz fora do plano de foco da amostra, resultando em imagens nítidas e detalhadas de seções finas da amostra.
 
-image/ https://img.directindustry.com/pt/images_di/photo-g/210459-17121133.jpg
+![image](https://img.directindustry.com/pt/images_di/photo-g/210459-17121133.jpg)
 
 Alguns tópicos importantes sobre o Microscópio Confocal:
 
