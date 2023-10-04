@@ -15,4 +15,4 @@ Alguns tópicos importantes sobre o Microscópio Confocal:
 - Imagens de Alta Resolução: Microscópios confocais produzem imagens nítidas, ideais para estudar detalhes microscópicos.
 - Aplicações: Amplamente usados em pesquisa biológica para analisar células e tecidos, bem como em ciências dos materiais e geologia para observar detalhes microscópicos.
 
-![Uploading image.png…]()
+![image](https://www.leica-microsystems.com/fileadmin/content_excellence/product_overview/confocal-microscopes/fullwidth-aoa-slider/lms-confocal-slider-aoa-neuroscience.jpg)
